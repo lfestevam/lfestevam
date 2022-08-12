@@ -1,7 +1,7 @@
 ### Hi guys 👋
 
 <!--Bio-->
-- 🌱 I’m currently learning HTML,CSS, JavaScript, Node.JS, SQL, Git... 
+- 🌱 I’m currently learning Salesforce.
 - ⚡ Fun fact: I studied physiotherapy for 5 years and never exercised, because I decided to dedicate myself fully to programming and technology.
 
 ##
