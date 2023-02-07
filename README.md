@@ -1,8 +1,7 @@
 ### Hi guys 👋
 
 <!--Bio-->
-- 🌱 I’m currently learning WordPress.
-- ⚡ Fun fact: I studied physiotherapy for 5 years and never exercised, because I decided to dedicate myself fully to programming and technology.
+- 🌱 I’m currently learning SalesForce.
 
 ##
 <!--cards-->
