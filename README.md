@@ -1,7 +1,7 @@
 ### Hi guys 👋
 
 <!--Bio-->
-- 🌱 I’m currently learning UI design.
+- 🌱 I’m currently learning JavaScript.
 
 ##
 <!--cards-->
